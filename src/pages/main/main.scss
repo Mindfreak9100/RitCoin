@@ -1,0 +1,71 @@
+.numeric-point {
+  font-weight: bold;
+  font-size: 52px;
+  line-height: 3;
+  color: #164c33;
+}
+.point-container {
+  border-radius: 100px;
+  width: 200px;
+  height: 200px;
+  border: #9acfac 7px solid;
+  margin-top: 13%;
+  margin-left: 16%;
+  margin-right: 25%;
+  z-index: 10;
+  background-color: #eff7f2;
+  position: absolute;
+}
+.point-container2 {
+  border-radius: 100px;
+  width: 186px;
+  height: 186px;
+  border: #00a95b 7px solid;
+  position: absolute;
+}
+.main-container {
+  margin-top: 10%;
+  height: 560px;
+  padding: 10px;
+  position: relative;
+}
+.first {
+  height: 20%;
+  background-color: #e0ebe4;
+  border-radius: 20px;
+}
+.second {
+  margin-top: 3%;
+  height: 77%;
+  background-color: #9acfac;
+  border-radius: 20px;
+  padding: 10px;
+}
+.menu-option {
+  background-color: #e0ebe4;
+  height: 120px;
+  border-radius: 10px;
+  margin-left: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+.menu-option-lg {
+  background-color: #e0ebe4;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+.big-icon {
+  font-size: 64px;
+}
+.big-icon-left {
+  font-size: 40px;
+  float: left;
+  margin-left: 10px;
+  margin-top: -5px;
+}
+.md-icon {
+  font-size: 22px;
+}

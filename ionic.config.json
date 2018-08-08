@@ -1,0 +1,8 @@
+{
+  "name": "RitCoin",
+  "app_id": "dcb2f271",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
